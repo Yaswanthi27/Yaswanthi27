@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaswanthi Putlur</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
-- 🔭 I’m currently working on **Cybersecurity and Data Engineering projects at Visa**
 
 - 🌱 I’m currently learning **FastAPI, AI/ML model deployment, and DevSecOps best practices**
 
